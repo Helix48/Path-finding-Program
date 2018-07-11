@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1495113723 source:h:\profile\desktop\final\main.cpp
+	<iostream>
+	<vector>
+
+1496776745 source:h:\profile\desktop\ics4ui\final\main.cpp
+	"libraries.h"
+	"board.h"
+
+1496768529 source:h:\profile\desktop\ics4ui\final\board.cpp
+	"board.h"
+	"linkList.h"
+
+1496768048 h:\profile\desktop\ics4ui\final\board.h
+	"libraries.h"
+	"linkList.h"
+
+1496667172 h:\profile\desktop\ics4ui\final\linklist.h
+
+1496778475 h:\profile\desktop\ics4ui\final\libraries.h
+	<iostream>
+	<vector>
+	<list>
+	<math.h>
+	<cmath>
+	<iomanip>
+
+1496667228 source:h:\profile\desktop\ics4ui\final\linklist.cpp
+	"linkList.h"
+	"libraries.h"
+
+1497111170 source:c:\users\seth hammell\desktop\final (1)\board.cpp
+	"board.h"
+	"linkList.h"
+
+1496772180 c:\users\seth hammell\desktop\final (1)\board.h
+	"libraries.h"
+	"linkList.h"
+
+1497109117 c:\users\seth hammell\desktop\final (1)\libraries.h
+	<iostream>
+	<vector>
+	<list>
+	<cmath>
+
+1497109108 c:\users\seth hammell\desktop\final (1)\linklist.h
+
+1496772178 source:c:\users\seth hammell\desktop\final (1)\linklist.cpp
+	"linkList.h"
+	"libraries.h"
+
+1497112896 source:c:\users\seth hammell\desktop\final (1)\main.cpp
+	"libraries.h"
+	"board.h"
+
+1497111170 source:c:\users\seth hammell\desktop\applications\new final\board.cpp
+	"board.h"
+	"linkList.h"
+
+1496772180 c:\users\seth hammell\desktop\applications\new final\board.h
+	"libraries.h"
+	"linkList.h"
+
+1497109117 c:\users\seth hammell\desktop\applications\new final\libraries.h
+	<iostream>
+	<vector>
+	<list>
+	<cmath>
+
+1497109108 c:\users\seth hammell\desktop\applications\new final\linklist.h
+
+1496772178 source:c:\users\seth hammell\desktop\applications\new final\linklist.cpp
+	"linkList.h"
+	"libraries.h"
+
+1497112896 source:c:\users\seth hammell\desktop\applications\new final\main.cpp
+	"libraries.h"
+	"board.h"
+
